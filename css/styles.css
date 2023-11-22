@@ -4,3 +4,14 @@ body {
     padding: 0;
     background-color: #f4f4f4;
 }
+table {
+background-color:#3df;
+border-collapse:collapse; 
+width: 100%; 
+}
+th,td {
+    border: 1px solid #fdfdfd; 
+
+
+
+}
